@@ -1,4 +1,4 @@
-## 🚀 ABOUT THE PROJECT
+## ABOUT THE PROJECT
 This repository was designed as a learning companion. Whether you are taking your first steps in programming or coming from another language to discover the FiveM ecosystem, you will find clear and condensed resources here.
 
 ## 📚 AVAILABLE CONTENT
