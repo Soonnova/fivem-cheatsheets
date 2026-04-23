@@ -46,4 +46,4 @@ An error? Open an Issue.
 An improvement? Submit a Pull Request.
 All ideas are welcome to enrich this knowledge base.
 
-Happy script! 👨‍💻
+Happy script!
